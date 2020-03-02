@@ -114,7 +114,7 @@ class Environment:
         #    variable into a character (mod 256) and writes it to stdout. This function \
         #    mimics Unit.__call__.
         def output(*args):
-            stdout.write(chr(self.vars[">"]))
+            stdout.write(chr(self.vars[">"] & 0xFF))
             return ACTION_NULL
         self.subs[">"] = output
         
