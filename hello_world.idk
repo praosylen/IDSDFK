@@ -1,0 +1,36 @@
++1
+:A(+@0+@0+@0+@0+@0):B(#A#A#A#A#A+@0):C(#B#B#B#B)#C_1
+:D(
+	+i
+	:E(+d-@j_1#E)#E_@j/E
+	:F(+@j-d+@i_1#F)#F_d/F+
+	j#D
+)#D
+:G(+g_1#G_g#G)#G_@0/G
+_g/D/E/F
+:H(_1-@0#H)#H_@0/H
+#A#A#A-@0
++a:N(-@a-@a-@a-@a):O(#N#N#N#N)#O#O_g
++a-@a-@a-@a_g
+:P(+@a+@a+@a+@a)
++a#P_g
++a#P_g
++a#P#P-@a_g
++a#O#O#O#O#P_g
++a#O#O#O#O#N#N_g
++a#P#P#P#P-@a_g
++a#P#P-@a_g
++a#P#P+@a+@a_g
++a#P_g
++a#N_g
++a#O#O#O#O#N#N+@a_g
++a#O#O#O#O#O#O+@a+@a_g
+:J(+>_1#J)
+:K(->_1#K)
+:I(
+	+k-@0#J_@k/J
+	#>
+	#K_@k/K#I
+)#I
+:M(_@0/L/I/J/K):
+L(_1#M_0/M#L)#L
