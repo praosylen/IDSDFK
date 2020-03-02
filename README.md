@@ -1,5 +1,5 @@
 # IDSDFK
-A Turing Tarpit of an esoteric programming language vaguely inspired by SleepSort.
+*A Turing Tarpit of an esoteric programming language vaguely inspired by SleepSort.*
 
 The name "IDSDFK" is an agglomeration of the initial letters of the types of instructions this language has, of which there are six. They are:
 1. Increment (`+`)
